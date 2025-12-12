@@ -4,66 +4,66 @@
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"Before Intentional Development, our one-on-ones were scattered and reactive. Now we have structured conversations that actually move people forward. Team engagement is up 40%."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">VP of Engineering</div>
+					<div class="text-gray-500 text-xs mt-0.5">Series B fintech startup</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"The reflection frameworks transformed how we give feedback. Instead of vague comments, we have meaningful conversations about growth. Our retention improved dramatically."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">Engineering Manager</div>
+					<div class="text-gray-500 text-xs mt-0.5">Fast-growing SaaS company</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"We went from chaos to clarity. The team rituals gave us a rhythm, and the frameworks made every conversation count. It's like having a playbook for building great teams."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">Director of Engineering</div>
+					<div class="text-gray-500 text-xs mt-0.5">Series A startup</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"As a first-time manager, I was drowning in feedback chaos. Intentional Development gave me the structure I needed. My team knows exactly where they stand and where they're going."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">Engineering Team Lead</div>
+					<div class="text-gray-500 text-xs mt-0.5">Developer tools company</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"The Slack community alone is worth it. Seeing how other engineering leaders handle tough conversations and implement frameworks has been invaluable for our growth."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">Head of Engineering</div>
+					<div class="text-gray-500 text-xs mt-0.5">B2B marketplace startup</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"We scaled from 15 to 60 engineers without losing our culture. The development frameworks kept everyone aligned and growing, even through rapid hiring."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="font-medium text-white text-sm">CTO</div>
+					<div class="text-gray-500 text-xs mt-0.5">Infrastructure startup</div>
 				</div>
 			</div>
 		</div>

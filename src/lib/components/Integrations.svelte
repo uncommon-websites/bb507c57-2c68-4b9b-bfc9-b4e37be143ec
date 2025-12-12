@@ -1,46 +1,45 @@
 <script lang="ts">
-    // Simple SVG paths for icons would be better, but for now using colored squares/circles to mimic brand colors
     const integrations = [
-        { name: 'Google Drive', color: 'bg-green-500' },
-        { name: 'Teams', color: 'bg-indigo-500' },
         { name: 'Slack', color: 'bg-purple-500' },
-        { name: 'Salesforce', color: 'bg-blue-400' },
-        { name: 'HubSpot', color: 'bg-orange-500' },
-        { name: 'ServiceNow', color: 'bg-green-700' },
-        { name: 'SharePoint', color: 'bg-teal-600' },
-        { name: 'OneDrive', color: 'bg-blue-600' },
-        { name: 'Outlook', color: 'bg-blue-500' },
-        { name: 'Workday', color: 'bg-blue-700' },
+        { name: 'Linear', color: 'bg-indigo-500' },
+        { name: 'GitHub', color: 'bg-gray-700' },
+        { name: 'Notion', color: 'bg-gray-600' },
+        { name: 'Jira', color: 'bg-blue-500' },
+        { name: 'Asana', color: 'bg-pink-500' },
         { name: 'Figma', color: 'bg-purple-400' },
-        { name: 'GitHub', color: 'bg-white' },
-        { name: 'Zendesk', color: 'bg-green-400' },
-        { name: 'Gmail', color: 'bg-red-500' },
+        { name: 'Google Cal', color: 'bg-blue-400' },
+        { name: 'Zoom', color: 'bg-blue-600' },
+        { name: 'Loom', color: 'bg-purple-600' },
         { name: 'Confluence', color: 'bg-blue-300' },
-        { name: 'Jira', color: 'bg-blue-500' }
+        { name: 'GitLab', color: 'bg-orange-500' },
+        { name: 'Trello', color: 'bg-blue-400' },
+        { name: 'Monday', color: 'bg-red-500' },
+        { name: 'ClickUp', color: 'bg-purple-500' },
+        { name: 'Basecamp', color: 'bg-green-500' }
     ];
 
-    const security = [
-        'Custom user roles', 'SCIM provisioning', 'Advanced permissions', 'Private LLMs', 
-        'SOC 2 Type 2', 'GDPR compliant', 'ISO 27001', 'Encryption', 
-        'SAML single sign-on', 'Domain verification', 'Regional deploys', 'Audit logging'
+    const features = [
+        'Goal tracking', 'Progress metrics', 'Team analytics', 'Custom frameworks', 
+        'Peer feedback', 'Career ladders', 'Skill matrices', 'Growth plans', 
+        'Meeting notes', 'Action items', 'Reflection prompts', 'Template library'
     ];
 </script>
 
 <section class="py-24 bg-black text-white">
 	<div class="max-w-[1400px] mx-auto px-6 text-center">
 		<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-			Enterprise-grade<br />
-			integrations and security
+			Integrates with your<br />
+			existing workflow
 		</h2>
 		<p class="text-gray-400 text-lg max-w-2xl mx-auto mb-20">
-			Sana connects with 100+ applications and unifies your company's data securely.
+			Connect with the tools your team already uses. Track progress where work happens.
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20">
             <!-- Integrations -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
-                    Connect your daily tools seamlessly
+                <div class="inline-block bg-primary-600 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                    Connect your daily tools
                 </div>
                 
                 <div class="grid grid-cols-4 gap-4">
@@ -55,18 +54,18 @@
                 </div>
             </div>
 
-            <!-- Security -->
+            <!-- Features -->
 			<div>
-                <div class="inline-block bg-[#3b82f6] text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
-                    Security you can stand by
+                <div class="inline-block bg-primary-600 text-white text-[10px] font-bold px-3 py-1 rounded-full mb-8 tracking-wide uppercase">
+                    Powerful features included
                 </div>
                 
                 <div class="grid grid-cols-4 gap-4">
-                     {#each security as item}
+                     {#each features as item}
                         <div class="aspect-square bg-[#111] rounded-xl border border-white/5 flex flex-col items-center justify-center p-2 hover:bg-[#1a1a1a] transition-colors group">
-                            <div class="w-8 h-8 rounded-full border border-white/20 mb-3 flex items-center justify-center text-white/50 group-hover:text-white transition-colors">
+                            <div class="w-8 h-8 rounded-full border border-primary-500/30 mb-3 flex items-center justify-center text-primary-400 group-hover:text-primary-300 transition-colors">
                                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                                    <polyline points="20 6 9 17 4 12"/>
                                 </svg>
                             </div> 
                             <span class="text-[10px] text-gray-400 text-center leading-tight font-medium">{item}</span>
